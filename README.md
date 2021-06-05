@@ -1,4 +1,4 @@
-# <A Tribute Page>
+# A Tribute Page For Fredrich Nietzsche
 A simple project to earn freeCodeCamps's Responsive Web Design Certification.
   
   ## Prelude
